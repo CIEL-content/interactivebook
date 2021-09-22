@@ -2,17 +2,17 @@
 <package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/# kotobee: https://www.kotobee.com/vocab# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 
-        <dc:title id="title">Untitled Book</dc:title>
+        <dc:title id="title">Proposal</dc:title>
 
         <dc:identifier id="pub-id">urn:uuid:75d26744-cb10-7b83-0a56-0000c3398646</dc:identifier>
-        <meta name="cover" content="img0" />
+        <meta name="cover" content="img2" />
 
         <dc:creator>Kotobee</dc:creator>
         <dc:publisher>N/A</dc:publisher>
         <dc:rights>Kotobee</dc:rights>
         <dc:language>en</dc:language>
         <dc:description>No description available</dc:description>
-        <meta property="dcterms:modified">2021-09-22T19:35:30Z</meta>
+        <meta property="dcterms:modified">2021-09-22T20:53:27Z</meta>
         <meta property="rendition:layout">reflowable</meta>
         <meta property="rendition:orientation">auto</meta>
         <meta property="ibooks:interactive">true</meta>
@@ -34,25 +34,27 @@
 <item id="html9" href="xhtml/pdfafnzo/pages/page9.xhtml" media-type="application/xhtml+xml"/>
 <item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
 <item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
-<item id="img0" href="imgs/coverpage.png" properties="cover-image" media-type="image/png"/>
-<item id="img1" href="imgs/coverpage01.png" media-type="image/png"/>
-<item id="img2" href="imgs/defaultCover.png" media-type="image/png"/>
-<item id="img3" href="imgs/table.jpg" media-type="image/jpeg"/>
-<item id="img4" href="imgs/table01.jpg" media-type="image/jpeg"/>
-<item id="img5" href="imgs/table_.png" media-type="image/png"/>
-<item id="img6" href="js/widgets/file6912.story_content/Icon.png" media-type="image/png"/>
-<item id="img7" href="js/widgets/file6912.story_content/thumbnail.jpg" media-type="image/jpeg"/>
-<item id="img8" href="xhtml/pdfafnzo/pages/bg1.png" media-type="image/png"/>
-<item id="img9" href="xhtml/pdfafnzo/pages/bg2.png" media-type="image/png"/>
-<item id="img10" href="xhtml/pdfafnzo/pages/bg3.png" media-type="image/png"/>
-<item id="img11" href="xhtml/pdfafnzo/pages/bg4.png" media-type="image/png"/>
-<item id="img12" href="xhtml/pdfafnzo/pages/bg5.png" media-type="image/png"/>
-<item id="img13" href="xhtml/pdfafnzo/pages/bg6.png" media-type="image/png"/>
-<item id="img14" href="xhtml/pdfafnzo/pages/bg7.png" media-type="image/png"/>
-<item id="img15" href="xhtml/pdfafnzo/pages/bg8.png" media-type="image/png"/>
-<item id="img16" href="xhtml/pdfafnzo/pages/bg9.png" media-type="image/png"/>
-<item id="img17" href="xhtml/pdfafnzo/pages/bga.png" media-type="image/png"/>
-<item id="img18" href="xhtml/pdfafnzo/pages/pdf2htmlEX-64x64.png" media-type="image/png"/>
+<item id="img0" href="css/css.jpg" media-type="image/jpeg"/>
+<item id="img1" href="imgs/ciellogo_png.png" media-type="image/png"/>
+<item id="img2" href="imgs/coverpage.png" properties="cover-image" media-type="image/png"/>
+<item id="img3" href="imgs/coverpage01.png" media-type="image/png"/>
+<item id="img4" href="imgs/defaultCover.png" media-type="image/png"/>
+<item id="img5" href="imgs/table.jpg" media-type="image/jpeg"/>
+<item id="img6" href="imgs/table01.jpg" media-type="image/jpeg"/>
+<item id="img7" href="imgs/table_.png" media-type="image/png"/>
+<item id="img8" href="js/widgets/file6912.story_content/Icon.png" media-type="image/png"/>
+<item id="img9" href="js/widgets/file6912.story_content/thumbnail.jpg" media-type="image/jpeg"/>
+<item id="img10" href="xhtml/pdfafnzo/pages/bg1.png" media-type="image/png"/>
+<item id="img11" href="xhtml/pdfafnzo/pages/bg2.png" media-type="image/png"/>
+<item id="img12" href="xhtml/pdfafnzo/pages/bg3.png" media-type="image/png"/>
+<item id="img13" href="xhtml/pdfafnzo/pages/bg4.png" media-type="image/png"/>
+<item id="img14" href="xhtml/pdfafnzo/pages/bg5.png" media-type="image/png"/>
+<item id="img15" href="xhtml/pdfafnzo/pages/bg6.png" media-type="image/png"/>
+<item id="img16" href="xhtml/pdfafnzo/pages/bg7.png" media-type="image/png"/>
+<item id="img17" href="xhtml/pdfafnzo/pages/bg8.png" media-type="image/png"/>
+<item id="img18" href="xhtml/pdfafnzo/pages/bg9.png" media-type="image/png"/>
+<item id="img19" href="xhtml/pdfafnzo/pages/bga.png" media-type="image/png"/>
+<item id="img20" href="xhtml/pdfafnzo/pages/pdf2htmlEX-64x64.png" media-type="image/png"/>
 <item id="aud0" href="js/widgets/file6912.story_content/5aIPIL3PdWx_44100_48_1.mp3" media-type="audio/mpeg"/>
 <item id="aud1" href="js/widgets/file6912.story_content/5chtwkybuFW_44100_48_1.mp3" media-type="audio/mpeg"/>
 <item id="aud2" href="js/widgets/file6912.story_content/5dBffPhPPKw_44100_48_1.mp3" media-type="audio/mpeg"/>
@@ -99,36 +101,49 @@
 <item id="aud43" href="js/widgets/file6912.story_content/6W5yt94AbQx_44100_48_1.mp3" media-type="audio/mpeg"/>
 <item id="aud44" href="js/widgets/file6912.story_content/6XSPbbF18i1_44100_48_1.mp3" media-type="audio/mpeg"/>
 <item id="css0" href="css/base.css" media-type="text/css"/>
-<item id="css1" href="css/global.css" media-type="text/css"/>
-<item id="css2" href="css/kotobeeInteractive.css" media-type="text/css"/>
-<item id="css3" href="xhtml/pdfafnzo/pages/base.min.css" media-type="text/css"/>
-<item id="css4" href="xhtml/pdfafnzo/pages/pdf.css" media-type="text/css"/>
+<item id="css1" href="css/demo.css" media-type="text/css"/>
+<item id="css2" href="css/global.css" media-type="text/css"/>
+<item id="css3" href="css/jqueryfancyboxmin.css" media-type="text/css"/>
+<item id="css4" href="css/kotobeeInteractive.css" media-type="text/css"/>
+<item id="css5" href="css/sample.css" media-type="text/css"/>
+<item id="css6" href="css/style.css" media-type="text/css"/>
+<item id="css7" href="xhtml/pdfafnzo/pages/base.min.css" media-type="text/css"/>
+<item id="css8" href="xhtml/pdfafnzo/pages/pdf.css" media-type="text/css"/>
 <item id="js0" href="js/global.js" media-type="text/javascript"/>
-<item id="js1" href="js/kotobeeInteractive.js" media-type="text/javascript"/>
-<item id="js12" href="js/widgets/file6912.story_content/user.js" media-type="text/javascript"/>
-<item id="js13" href="xhtml/pdfafnzo/pages/compatibility.min.js" media-type="text/javascript"/>
-<item id="js14" href="xhtml/pdfafnzo/pages/pdf2htmlEX.min.js" media-type="text/javascript"/>
-<item id="font23" href="xhtml/pdfafnzo/pages/f1.woff" media-type="application/font-woff"/>
-<item id="font24" href="xhtml/pdfafnzo/pages/f2.woff" media-type="application/font-woff"/>
-<item id="font25" href="xhtml/pdfafnzo/pages/f3.woff" media-type="application/font-woff"/>
-<item id="font26" href="xhtml/pdfafnzo/pages/f4.woff" media-type="application/font-woff"/>
-<item id="font27" href="xhtml/pdfafnzo/pages/f5.woff" media-type="application/font-woff"/>
-<item id="font28" href="xhtml/pdfafnzo/pages/f6.woff" media-type="application/font-woff"/>
-<item id="font29" href="xhtml/pdfafnzo/pages/f7.woff" media-type="application/font-woff"/>
-<item id="font30" href="xhtml/pdfafnzo/pages/f8.woff" media-type="application/font-woff"/>
+<item id="js1" href="js/jqueryfancyboxmin.js" media-type="text/javascript"/>
+<item id="js2" href="js/jquerymin.js" media-type="text/javascript"/>
+<item id="js3" href="js/kotobeeInteractive.js" media-type="text/javascript"/>
+<item id="js5" href="js/modernizrcustom08464.js" media-type="text/javascript"/>
+<item id="js6" href="js/script.js" media-type="text/javascript"/>
+<item id="js7" href="js/widgets/file6912.story_content/user.js" media-type="text/javascript"/>
+<item id="js8" href="xhtml/pdfafnzo/pages/compatibility.min.js" media-type="text/javascript"/>
+<item id="js9" href="xhtml/pdfafnzo/pages/pdf2htmlEX.min.js" media-type="text/javascript"/>
+<item id="font0" href="imgs/jtusjig1_i6t8kchkm45.woff2" media-type="application/font-woff2"/>
+<item id="font1" href="imgs/jtusjig1_i6t8kchkm46.woff2" media-type="application/font-woff2"/>
+<item id="font2" href="imgs/jtusjig1_i6t8kchkm47.woff2" media-type="application/font-woff2"/>
+<item id="font3" href="imgs/jtusjig1_i6t8kchkm48.woff2" media-type="application/font-woff2"/>
+<item id="font4" href="imgs/jtusjig1_i6t8kchkm49.woff2" media-type="application/font-woff2"/>
+<item id="font5" href="xhtml/pdfafnzo/pages/f1.woff" media-type="application/font-woff"/>
+<item id="font6" href="xhtml/pdfafnzo/pages/f2.woff" media-type="application/font-woff"/>
+<item id="font7" href="xhtml/pdfafnzo/pages/f3.woff" media-type="application/font-woff"/>
+<item id="font8" href="xhtml/pdfafnzo/pages/f4.woff" media-type="application/font-woff"/>
+<item id="font9" href="xhtml/pdfafnzo/pages/f5.woff" media-type="application/font-woff"/>
+<item id="font10" href="xhtml/pdfafnzo/pages/f6.woff" media-type="application/font-woff"/>
+<item id="font11" href="xhtml/pdfafnzo/pages/f7.woff" media-type="application/font-woff"/>
+<item id="font12" href="xhtml/pdfafnzo/pages/f8.woff" media-type="application/font-woff"/>
 
     </manifest>
     <spine toc="ncx">
         <itemref idref="html0" properties="rendition:layout-reflowable"/>
-<itemref idref="html1" properties="rendition:layout-reflowable"/>
-<itemref idref="html2" properties="rendition:layout-reflowable"/>
-<itemref idref="html3" properties="rendition:layout-reflowable"/>
-<itemref idref="html4" properties="rendition:layout-reflowable"/>
-<itemref idref="html5" properties="rendition:layout-reflowable"/>
+<itemref idref="html1" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html2" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html3" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html4" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html5" properties="rendition:layout-pre-paginated"/>
 <itemref idref="html6" properties="rendition:layout-pre-paginated"/>
 <itemref idref="html7" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html8" properties="rendition:layout-reflowable"/>
-<itemref idref="html9" properties="rendition:layout-reflowable"/>
+<itemref idref="html8" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html9" properties="rendition:layout-pre-paginated"/>
 
     </spine>
 
