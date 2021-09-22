@@ -12,7 +12,7 @@
         <dc:rights>Kotobee</dc:rights>
         <dc:language>en</dc:language>
         <dc:description>No description available</dc:description>
-        <meta property="dcterms:modified">2021-09-22T18:31:46Z</meta>
+        <meta property="dcterms:modified">2021-09-22T19:36:20Z</meta>
         <meta property="rendition:layout">reflowable</meta>
         <meta property="rendition:orientation">auto</meta>
         <meta property="ibooks:interactive">true</meta>
@@ -35,28 +35,77 @@
 <item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
 <item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
 <item id="img0" href="imgs/coverpage.png" properties="cover-image" media-type="image/png"/>
-<item id="img1" href="xhtml/pdfafnzo/pages/bg1.png" media-type="image/png"/>
-<item id="img2" href="xhtml/pdfafnzo/pages/bg2.png" media-type="image/png"/>
-<item id="img3" href="xhtml/pdfafnzo/pages/bg3.png" media-type="image/png"/>
-<item id="img4" href="xhtml/pdfafnzo/pages/bg4.png" media-type="image/png"/>
-<item id="img5" href="xhtml/pdfafnzo/pages/bg5.png" media-type="image/png"/>
-<item id="img6" href="xhtml/pdfafnzo/pages/bg6.png" media-type="image/png"/>
-<item id="img7" href="xhtml/pdfafnzo/pages/bg7.png" media-type="image/png"/>
-<item id="img8" href="xhtml/pdfafnzo/pages/bg8.png" media-type="image/png"/>
-<item id="img9" href="xhtml/pdfafnzo/pages/bg9.png" media-type="image/png"/>
+<item id="img1" href="imgs/table.jpg" media-type="image/jpeg"/>
+<item id="img2" href="imgs/table_.png" media-type="image/png"/>
+<item id="img3" href="js/widgets/file6912.story_content/Icon.png" media-type="image/png"/>
+<item id="img4" href="js/widgets/file6912.story_content/thumbnail.jpg" media-type="image/jpeg"/>
+<item id="img5" href="xhtml/pdfafnzo/pages/bg1.png" media-type="image/png"/>
+<item id="img6" href="xhtml/pdfafnzo/pages/bg2.png" media-type="image/png"/>
+<item id="img7" href="xhtml/pdfafnzo/pages/bg3.png" media-type="image/png"/>
+<item id="img8" href="xhtml/pdfafnzo/pages/bg4.png" media-type="image/png"/>
+<item id="img9" href="xhtml/pdfafnzo/pages/bg5.png" media-type="image/png"/>
+<item id="img10" href="xhtml/pdfafnzo/pages/bg6.png" media-type="image/png"/>
+<item id="img11" href="xhtml/pdfafnzo/pages/bg7.png" media-type="image/png"/>
+<item id="img12" href="xhtml/pdfafnzo/pages/bg8.png" media-type="image/png"/>
+<item id="img13" href="xhtml/pdfafnzo/pages/bg9.png" media-type="image/png"/>
+<item id="aud0" href="js/widgets/file6912.story_content/5aIPIL3PdWx_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud1" href="js/widgets/file6912.story_content/5chtwkybuFW_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud2" href="js/widgets/file6912.story_content/5dBffPhPPKw_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud3" href="js/widgets/file6912.story_content/5eDDjgP06It_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud4" href="js/widgets/file6912.story_content/5gezuno52mS_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud5" href="js/widgets/file6912.story_content/5jLrT4DwVdM_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud6" href="js/widgets/file6912.story_content/5pAI8Vana6U_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud7" href="js/widgets/file6912.story_content/5q3FMXwrXQw_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud8" href="js/widgets/file6912.story_content/5scHDa41JSi_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud9" href="js/widgets/file6912.story_content/5srMe3hgaft_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud10" href="js/widgets/file6912.story_content/5tejrG1VxT7_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud11" href="js/widgets/file6912.story_content/5ug4PNfRM3a_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud12" href="js/widgets/file6912.story_content/5uXU16dXbC4_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud13" href="js/widgets/file6912.story_content/5vuwzo5WMgR_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud14" href="js/widgets/file6912.story_content/5wrxKMUhR5f_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud15" href="js/widgets/file6912.story_content/5xaK1KZkUcI_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud16" href="js/widgets/file6912.story_content/5XsDuXsutg4_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud17" href="js/widgets/file6912.story_content/5ycuWrjKqBe_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud18" href="js/widgets/file6912.story_content/5z8lEPtT13j_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud19" href="js/widgets/file6912.story_content/62PIcS1fxOF_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud20" href="js/widgets/file6912.story_content/65PTW5nQi83_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud21" href="js/widgets/file6912.story_content/687Hq58ZErc_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud22" href="js/widgets/file6912.story_content/6A62y71o74a_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud23" href="js/widgets/file6912.story_content/6B2QH5QF4DB_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud24" href="js/widgets/file6912.story_content/6Bd7GVzl0k3_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud25" href="js/widgets/file6912.story_content/6CAFp1aHmN0_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud26" href="js/widgets/file6912.story_content/6cQGrLnwgYy_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud27" href="js/widgets/file6912.story_content/6DtcGXd5x1U_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud28" href="js/widgets/file6912.story_content/6EHLWTN3OTn_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud29" href="js/widgets/file6912.story_content/6Ey66xyzSlP_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud30" href="js/widgets/file6912.story_content/6EZMuTf37WG_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud31" href="js/widgets/file6912.story_content/6FpnSgP1iPu_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud32" href="js/widgets/file6912.story_content/6gBo9neT0t1_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud33" href="js/widgets/file6912.story_content/6hS6FbzwjXR_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud34" href="js/widgets/file6912.story_content/6ICrYRJOUck_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud35" href="js/widgets/file6912.story_content/6Mtf7bj4d3c_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud36" href="js/widgets/file6912.story_content/6N3asg3JLqR_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud37" href="js/widgets/file6912.story_content/6NUvoLlAnCG_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud38" href="js/widgets/file6912.story_content/6O7Aio3JerF_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud39" href="js/widgets/file6912.story_content/6pvqZClPv6Y_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud40" href="js/widgets/file6912.story_content/6q4IuYIWBRA_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud41" href="js/widgets/file6912.story_content/6QxIOJmQfnE_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud42" href="js/widgets/file6912.story_content/6R5O6t1tksg_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud43" href="js/widgets/file6912.story_content/6W5yt94AbQx_44100_48_1.mp3" media-type="audio/mpeg"/>
+<item id="aud44" href="js/widgets/file6912.story_content/6XSPbbF18i1_44100_48_1.mp3" media-type="audio/mpeg"/>
 
     </manifest>
     <spine toc="ncx">
         <itemref idref="html0" properties="rendition:layout-reflowable"/>
-<itemref idref="html1" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html2" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html3" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html4" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html5" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html1" properties="rendition:layout-reflowable"/>
+<itemref idref="html2" properties="rendition:layout-reflowable"/>
+<itemref idref="html3" properties="rendition:layout-reflowable"/>
+<itemref idref="html4" properties="rendition:layout-reflowable"/>
+<itemref idref="html5" properties="rendition:layout-reflowable"/>
 <itemref idref="html6" properties="rendition:layout-pre-paginated"/>
 <itemref idref="html7" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html8" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html9" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html8" properties="rendition:layout-reflowable"/>
+<itemref idref="html9" properties="rendition:layout-reflowable"/>
 
     </spine>
 
