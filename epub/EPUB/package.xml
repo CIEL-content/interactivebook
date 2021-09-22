@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/# kotobee: https://www.kotobee.com/vocab# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+        <dc:title id="title">Untitled Book</dc:title>
+
+        <dc:identifier id="pub-id">urn:uuid:75d26744-cb10-7b83-0a56-0000c3398646</dc:identifier>
+        <meta name="cover" content="img0" />
+
+        <dc:creator>Kotobee</dc:creator>
+        <dc:publisher>N/A</dc:publisher>
+        <dc:rights>Kotobee</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:description>No description available</dc:description>
+        <meta property="dcterms:modified">2021-09-22T18:31:46Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+        <meta property="rendition:orientation">auto</meta>
+        <meta property="ibooks:interactive">true</meta>
+        <meta property="ibooks:specified-fonts">false</meta>
+        <meta property="kotobee:version">1.7.3</meta>
+        <meta property="kotobee:build">1740</meta>
+
+    </metadata>
+    <manifest>
+        <item id="html0" href="xhtml/raw/ch1.xhtml" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/pdfafnzo/pages/page1.xhtml" media-type="application/xhtml+xml"/>
+<item id="html2" href="xhtml/pdfafnzo/pages/page2.xhtml" media-type="application/xhtml+xml"/>
+<item id="html3" href="xhtml/pdfafnzo/pages/page3.xhtml" media-type="application/xhtml+xml"/>
+<item id="html4" href="xhtml/pdfafnzo/pages/page4.xhtml" media-type="application/xhtml+xml"/>
+<item id="html5" href="xhtml/pdfafnzo/pages/page5.xhtml" media-type="application/xhtml+xml"/>
+<item id="html6" href="xhtml/pdfafnzo/pages/page6.xhtml" media-type="application/xhtml+xml"/>
+<item id="html7" href="xhtml/pdfafnzo/pages/page7.xhtml" media-type="application/xhtml+xml"/>
+<item id="html8" href="xhtml/pdfafnzo/pages/page8.xhtml" media-type="application/xhtml+xml"/>
+<item id="html9" href="xhtml/pdfafnzo/pages/page9.xhtml" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
+<item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
+<item id="img0" href="imgs/coverpage.png" properties="cover-image" media-type="image/png"/>
+<item id="img1" href="xhtml/pdfafnzo/pages/bg1.png" media-type="image/png"/>
+<item id="img2" href="xhtml/pdfafnzo/pages/bg2.png" media-type="image/png"/>
+<item id="img3" href="xhtml/pdfafnzo/pages/bg3.png" media-type="image/png"/>
+<item id="img4" href="xhtml/pdfafnzo/pages/bg4.png" media-type="image/png"/>
+<item id="img5" href="xhtml/pdfafnzo/pages/bg5.png" media-type="image/png"/>
+<item id="img6" href="xhtml/pdfafnzo/pages/bg6.png" media-type="image/png"/>
+<item id="img7" href="xhtml/pdfafnzo/pages/bg7.png" media-type="image/png"/>
+<item id="img8" href="xhtml/pdfafnzo/pages/bg8.png" media-type="image/png"/>
+<item id="img9" href="xhtml/pdfafnzo/pages/bg9.png" media-type="image/png"/>
+
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="html0" properties="rendition:layout-reflowable"/>
+<itemref idref="html1" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html2" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html3" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html4" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html5" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html6" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html7" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html8" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html9" properties="rendition:layout-pre-paginated"/>
+
+    </spine>
+
+    
+    
+</package>
